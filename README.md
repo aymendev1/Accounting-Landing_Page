@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Me !]()
-- Live Site URL: [Click Me !]()
+- Solution URL: [Click Me !](https://github.com/aymendev1/Accounting-Landing_Pag)
+- Live Site URL: [Click Me !](https://accountingpro-aymendev1.netlify.app/)
 
 ## My process
 
